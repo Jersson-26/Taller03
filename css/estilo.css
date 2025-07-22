@@ -1,0 +1,39 @@
+header{
+    color: beige;
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(39, 179, 214);
+}
+table{
+    border: 1px solid black; 
+    width: 80%;
+    margin: 0% auto;
+    padding: 2%;
+}
+.img01{
+    width: 25%;
+    height: auto;
+    border-radius: 10px;
+}
+th{
+    text-align: center;
+    color: seashell;
+    background-color: blue;
+    padding: 5px;
+}
+td{
+    text-align: center;
+    padding: 5px;
+    font-family: cursive;
+    font-size: 16px;
+}
+.valor{
+    color: seagreen;
+    background-color: lightsalmon;
+}
